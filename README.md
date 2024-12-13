@@ -1,16 +1,14 @@
-## Hi there 👋
+## About me👋
 
-<!--
-**ESC-Samuel/ESC-Samuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**ESC-Samuel/ESC-Samuel** is a ✨ _special_ ✨ repository.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+more about me:
+
+- 🔭 I’m currently working on JavaScript project 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on JavaScript projects
+- 🤔 I’m looking for help with JavaScript lessons 
+- 💬 Ask me about CSS
+- 📫 How to reach me: check my email 
+
